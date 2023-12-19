@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ntou01057042/.github.io/api-exercise/static/css/main.f855e6bc.css",
+    "main.js": "/ntou01057042/.github.io/api-exercise/static/js/main.80954f68.js",
+    "static/js/787.be6e84f2.chunk.js": "/ntou01057042/.github.io/api-exercise/static/js/787.be6e84f2.chunk.js",
+    "index.html": "/ntou01057042/.github.io/api-exercise/index.html",
+    "main.f855e6bc.css.map": "/ntou01057042/.github.io/api-exercise/static/css/main.f855e6bc.css.map",
+    "main.80954f68.js.map": "/ntou01057042/.github.io/api-exercise/static/js/main.80954f68.js.map",
+    "787.be6e84f2.chunk.js.map": "/ntou01057042/.github.io/api-exercise/static/js/787.be6e84f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.80954f68.js"
+  ]
+}
