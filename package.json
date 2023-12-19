@@ -2,7 +2,7 @@
   "name": "api-exercise",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ntou01057042/.github.io/api-exercise",
+  "homepage": "https://ntou01057042.github.io/api-exercise",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
